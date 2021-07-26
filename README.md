@@ -31,6 +31,8 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Sriram-Karthick-k&show_icons=true&count_private=true&theme=light&hide=issues&line_height=32">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Sriram-Karthick-k">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram-Karthick-k&exclude_repo=github-readme-stats,anuraghazra.github.io&layout=compact">
+
 </p>
 
 <summary><h2><img src="images/computerrage.gif" align="center"
