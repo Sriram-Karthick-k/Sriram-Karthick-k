@@ -20,7 +20,7 @@
  
 [<img src ="images/portfolio.svg">](https://sriram-karthick-k.github.io/Portfolio/)
 [<img src="images/linkedIn.svg" />](https://www.linkedin.com/in/sriram-karthick-k-944664185/)
-[<img src = "images/instagram">](https://www.instagram.com/_sri_raw_m_/)
+[<img src = "images/instagram.svg">](https://www.instagram.com/_sri_raw_m_/)
 
 </p>
 
