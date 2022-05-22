@@ -1,4 +1,4 @@
-<center><h1><p align="center">Hello, I'm Sriram karthick!</p> <img src="images/hand.webp" width="35px"></h1></center>
+<h1><center><p align="center">Hello, I'm Sriram karthick! <img src="images/hand.webp" width="35px"></h1></center></p>
 
 <p align="center" ><img 
  src="images/profile2.gif" width="40%"/></p>
